@@ -1,9 +1,8 @@
 # Self-feature-based point cloud registration method with a novel convolutional Siamese point net for optical measurement of blade profile
 
 ## Citation
-
-@article{XIE2022109243,<br>
->>>title = {Self-feature-based point cloud registration method with a novel convolutional Siamese point net for optical measurement of blade profile},<br>
+>>>@article{XIE2022109243,<br>
+title = {Self-feature-based point cloud registration method with a novel convolutional Siamese point net for optical measurement of blade profile},<br>
 journal = {Mechanical Systems and Signal Processing},<br>
 volume = {178},<br>
 pages = {109243},<br>
